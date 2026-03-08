@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\entries.h(25,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\entries.h(428,29): warning C4101: 'e': yerel değişken başvurusu kaldırıldı
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\entries.h(534,30): warning C4129: '.': tanınmayan karakter kaçış dizisi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\entries.h(713,19): warning C4244: 'başlatılıyor': 'ULONGLONG' - 'DWORD' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\entries.h(734,21): warning C4244: '-=': 'DWORD' - 'WORD' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\entries.h(737,23): warning C4244: '=': 'DWORD' - 'WORD' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\entries.h(1798,13): warning C4129: 'P': tanınmayan karakter kaçış dizisi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\entries.h(1798,13): warning C4129: 'V': tanınmayan karakter kaçış dizisi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 2194 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  des2.vcxproj -> D:\dosyababamıgo\fivemsell\source\@fivem external\1- newbase\bypsexe\destructer\x64\Release\console.exe
